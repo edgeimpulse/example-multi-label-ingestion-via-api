@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "type": "structured-labels",
+    "structuredLabels": {
+        "updown.3.json": [{
+            "startIndex": 0,
+            "endIndex": 300,
+            "label": "first_label"
+        }, {
+            "startIndex": 301,
+            "endIndex": 621,
+            "label": "second_label"
+        }]
+    }
+}
